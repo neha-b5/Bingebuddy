@@ -1,1 +1,3 @@
 # Bingebuddy
+
+#### BingeBuddy is a personalized movie and TV show recommendation system built using Python and machine learning. It addresses decision fatigue caused by overwhelming streaming content by analyzing user activity, watch history, and preferences to deliver tailored suggestions. The system combines content-based and collaborative filtering techniques, integrates with external media databases, and features an intuitive interface for input and feedback. Designed to evolve with user interaction, BingeBuddy continuously refines recommendations to enhance content discovery and user satisfaction.
